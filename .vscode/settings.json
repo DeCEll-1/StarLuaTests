@@ -1,0 +1,26 @@
+{
+    "Lua.workspace.library": [
+        "${workspaceFolder}/../StarLua/luaj-api"
+    ],
+    "Lua.runtime.version": "Lua 5.1",
+    "Lua.diagnostics.globals": [
+        "this",
+        "instanceof",
+        "cast",
+        "ShipAPI",
+        "Color",
+        "MutableShipStatsAPI",
+        "MutableStat",
+        "ShipEngineAPI",
+        "ShipEngineControllerAPI",
+        "ShipSystemAPI",
+        "StatBonus",
+        "StatusData",
+        "StatMod",
+        "Object",
+        "Global"
+    ],
+    "Lua.diagnostics.disable": [
+        "duplicate-set-field"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "StarLuaTest",
+  "name": "StarLuaTest",
+  "author": "DeCell",
+  "totalConversion": "false",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "description": "A lua",
+  "gameVersion": "0.98a-RC5",
+  "//modPlugin": "DeCell.StarLuaTest.Plugins.ModPlugin",
+  "//jars": [ ],
+  "LuaList": "luaSrc.txt",
+  "dependencies": [
+    {
+      "id": "ZZStarLua",
+      "name": "StarLua"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+luaSrc/DeCell/StarLuaTest/MyTestShipSystem.lua,SHIP_SYSTEM,data.scripts.DeCell.StarLua,MyTestShipSystem
+luaSrc/DeCell/StarLuaTest/StarLuaTestModPlugin.lua,MOD_PLUGIN, , 
